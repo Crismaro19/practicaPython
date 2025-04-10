@@ -1,0 +1,21 @@
+Invertir una cadena o número
+"Hola" → "aloH"
+1234 → 4321
+
+Sumar los dígitos de un número
+Ej: 123 → 1 + 2 + 3 = 6
+
+Encontrar el número más grande/pequeño en una lista
+
+Detectar números Armstrong (o narcisistas)
+Ej: 153 → 1³ + 5³ + 3³ = 153
+
+Tabla de multiplicar
+Imprimir la tabla del 5, por ejemplo.
+
+Sumar todos los números pares o impares hasta n
+
+Contador de palabras en una oración
+
+Juego del Adivina el Número
+Genera un número aleatorio y deja que el usuario lo adivine.
